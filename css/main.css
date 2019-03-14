@@ -1,8 +1,24 @@
 .back {
   color: #F2F3D9;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Six Caps', sans-serif;
+  margin: 0;
+}
+
+.front {
+  font-family: 'Playfair Display', serif;
+  margin: 0;
+  font-style: black;
+  font-weight: 600;
+}
+
+.border {
+  border-color: #F2F3D9;
+  border-width: 3pt;
+  border-style: solid;
+  margin: 3rem;
 }
 
 body {
   background-color: #DC9E82;
+  min-height: 100vh;
 }
